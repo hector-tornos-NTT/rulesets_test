@@ -1,0 +1,13 @@
+name: Hola Mundo naub
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Imprimir Hola Mundo
+        run: echo "Hola Mundo main"
