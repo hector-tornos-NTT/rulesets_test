@@ -1,2 +1,2 @@
 # rulesets_test
-Para probar la API para configurar los rulesets
+Para probar la API para configurar los rulesets.
