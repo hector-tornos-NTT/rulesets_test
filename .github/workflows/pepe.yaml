@@ -3,7 +3,7 @@ name: Hola Mundo
 on:
   push:
     branches:
-      - develop
+      - main
 
 jobs:
   say-hello:
